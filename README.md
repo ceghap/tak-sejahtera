@@ -1,7 +1,3 @@
-# Template NextJS
+# A MySejahtera Clone
 
-Just a nextjs template with:
-
--   typescript
--   eslint
--   prettier
+:3
